@@ -1,0 +1,18 @@
+
+#Primera, #Segona, #Tercera, #Quarta, #Cinquena, #Sisena{    
+    float: left;
+}
+
+footer{
+    
+    margin-top: 50%;
+    border: 2px solid black;
+    background-color: aliceblue;
+
+    
+    width: 99vw;
+    height: 4rem;
+    
+    text-align: center;
+    
+}
